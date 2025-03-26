@@ -21,7 +21,7 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Estatísticas do GitHub de Misael](https://github-readme-stats.vercel.app/api?username=misereitor&show_icons=true&theme=dracula) ![Melhores Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=misereitor&layout=compact&langs_count=7&theme=dracula)
+![Estatísticas do GitHub de Misael](https://github-readme-stats.vercel.app/api?username=misereitor&layout=compact&show_icons=true&theme=dracula) ![Melhores Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=misereitor&layout=compact&langs_count=7&theme=dracula)
 
 
 ## 📫 Contato  
