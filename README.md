@@ -34,12 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📌 Projetos Destacados  
-
-🔹 [**Sistema de Vendas**](https://github.com/misereitor/SistemaDeVendas) - Sistema de gerenciamento de vendas desenvolvido em C#.  
-🔹 [**CliDonto2**](https://github.com/misereitor/clidonto2) - Projeto em TypeScript para clínica odontológica.  
-🔹 [**Viver Pesquisa Associação**](https://github.com/misereitor/viverpesquisaassociacao) - Aplicação em TypeScript para associação de pesquisa.  
-
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
